@@ -1,0 +1,1 @@
+<strong>Copyright &copy; <?php echo date('Y'); ?> <a href=""> KM Project </a>.</strong> All rights reserved.
